@@ -12,3 +12,4 @@ numpy
 ipywidgets
 ipyvuetify
 voila-vuetify
+ipython
