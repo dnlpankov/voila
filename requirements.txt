@@ -13,3 +13,5 @@ ipywidgets
 ipyvuetify
 voila-vuetify
 ipython
+Jinja2==3.0.1
+nbconvert==6.4.4
