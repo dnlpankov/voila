@@ -1,8 +1,8 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
-anyio==3.6.1=pyhd8ed1ab_1
-appnope==0.1.2=py39hecd8cb5_1001
+anyio==3.6.1
+appnope==0.1.2
 argon2-cffi==21.3.0=pyhd8ed1ab_0
 argon2-cffi-bindings==21.2.0=py39h63b48b0_2
 asttokens==2.0.5=pyhd3eb1b0_0
