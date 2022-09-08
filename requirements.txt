@@ -4,6 +4,7 @@ pandas
 textblob
 nltk
 plotly-express
+plotly_express
 pytest
 voila
 plotly
